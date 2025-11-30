@@ -20,7 +20,7 @@ Unit tests for scoring + API <br>
 
 create a folder in the workspace
 ```
-git clone https://github.com/bharath-070/Smart-Task-Analyzer.git
+git clone https://github.com/Harshilg0wda18/Smart-Task-Analyzer.git
 cd Smart-Task-Analyzer
 ```
 
